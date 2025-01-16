@@ -2,7 +2,7 @@ function fibonacci() {
     let fibArr = [];
     let prev2 = 0;
     let prev1 = 1;
-    count = 0;
+    let count = 0;
 
     while ( count < 18) {
         sum = prev1 + prev2;
